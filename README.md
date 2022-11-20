@@ -12,7 +12,7 @@
 
 *MAKE SURE THAT THE FILE IS FULLY EXECUTABLE AND WORKING.*
 
-# RECOMMENDED
+# RECOMMENDATIONS
 >**It is recommended to Encode the file incase the target would check the source code.**
 
 >**It is recommended to change the file name to anything that is not suspicious.**
