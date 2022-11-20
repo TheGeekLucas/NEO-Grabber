@@ -2,7 +2,7 @@ import os
 import base64, codecs
 import json
 
-webhookk = "WEBHOOK" # Remove the word "webhook" and paste your own one there.
+webhookk = "WEBHOOK" # Paste your own Webhook inside the Quotation Marks.
 
 def command(c):
     os.system(c)
