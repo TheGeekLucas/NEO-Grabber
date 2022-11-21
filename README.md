@@ -2,7 +2,7 @@
 **I AM NOT RESPONSIBLE FOR ANY ILLEGAL OR HARMFUL ACTIONS PROVIDED WITH THIS TOOL.**
 
 # NEO-Grabber
- Really Simple "Payload" written in python. You also must change some things in the file before sending it to the victim!
+ Really Simple "Payload" written in python. You also must change some things in the file before sending it to your victim and in order to make it work!
 # SETUP
 >**1. Download the "NEO GRABBER" File and Open it in Notepad or open it as a txt file.**
 
